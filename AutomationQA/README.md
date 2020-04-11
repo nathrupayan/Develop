@@ -16,7 +16,7 @@ Following are the package structures:
 			c. LoadApplication.java: LoadApplication.loadUrl() loads the Amazon.in url in the web browser.
 		2. com.excel.writer
 			a. WriteExcel.java: WriteExcel.writeDataIntoExcel() writes the Product Name and Product Price in a .xlsx file format.
-		3. com.signzy.amazonPages: This package is created to contain all the page objects of a particular page in the website. 
+		3. com.amazonPages: This package is created to contain all the page objects of a particular page in the website. 
 		The class also contains java methods for any action to be performed on the web objects.
 		4. com.pagemethod.caller: This package has java class for each web page to call the methods inside the clasess of com.signzy.amazonPages.
 	src/test/java
